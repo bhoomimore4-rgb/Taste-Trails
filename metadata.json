@@ -1,0 +1,6 @@
+{
+  "name": "Taste Trails",
+  "description": "A modern, premium food blog and recipe platform featuring curated collections, restaurant reviews, café hopping guides, local street food stories, expert culinary guides, and an interactive foodie community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
